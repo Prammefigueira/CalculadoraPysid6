@@ -14,5 +14,5 @@ Tecnologias Utilizada
 Python 3
 PySide6
 
-![image](https://github.com/user-attachments/assets/a3ac255d-500c-44a0-bc75-31ddb4906fe9) ![image](https://github.com/user-attachments/assets/2a62ec67-c9d3-4d34-97c5-9fe5bbd904be)
+![image](https://github.com/user-attachments/assets/a3ac255d-500c-44a0-bc75-31ddb4906fe9)
 
